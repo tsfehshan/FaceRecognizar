@@ -1,0 +1,51 @@
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\bin\Debug\FaceM.exe.config
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\bin\Debug\FaceM.exe
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\bin\Debug\FaceM.pdb
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\bin\Debug\Microsoft.ProjectOxford.Face.dll
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\bin\Debug\Newtonsoft.Json.dll
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\bin\Debug\Newtonsoft.Json.xml
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\FaceM.csprojResolveAssemblyReference.cache
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\MainWindow.g.cs
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\App.g.cs
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\FaceM_MarkupCompile.cache
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\FaceM_MarkupCompile.lref
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\MainWindow.baml
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\FaceM.g.resources
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\FaceM.Properties.Resources.resources
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\FaceM.csproj.GenerateResource.Cache
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\FaceM.exe
+c:\users\ehshan\documents\visual studio 2015\Projects\FaceM\FaceM\obj\Debug\FaceM.pdb
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\bin\Debug\FaceM.exe.config
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.exe
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.pdb
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\bin\Debug\FaceM.exe
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\bin\Debug\FaceM.pdb
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.csprojResolveAssemblyReference.cache
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\MainWindow.g.cs
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\App.g.cs
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\FaceM_MarkupCompile.cache
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\FaceM_MarkupCompile.lref
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\MainWindow.baml
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.g.resources
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.Properties.Resources.resources
+C:\Users\Ehshanul Hasan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.csproj.GenerateResource.Cache
+C:\Users\ehshan\OneDrive\FaceM\FaceM\bin\Debug\FaceM.exe.config
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.exe
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.pdb
+C:\Users\ehshan\OneDrive\FaceM\FaceM\bin\Debug\FaceM.exe
+C:\Users\ehshan\OneDrive\FaceM\FaceM\bin\Debug\FaceM.pdb
+C:\Users\ehshan\OneDrive\FaceM\FaceM\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\ehshan\OneDrive\FaceM\FaceM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ehshan\OneDrive\FaceM\FaceM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.csprojResolveAssemblyReference.cache
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\MainWindow.g.cs
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\App.g.cs
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\FaceM_MarkupCompile.cache
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\FaceM_MarkupCompile.lref
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\MainWindow.baml
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.g.resources
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.Properties.Resources.resources
+C:\Users\ehshan\OneDrive\FaceM\FaceM\obj\Debug\FaceM.csproj.GenerateResource.Cache
